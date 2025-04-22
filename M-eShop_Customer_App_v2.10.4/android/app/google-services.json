@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "449043934933",
+    "project_id": "zippybaskets-6a47b",
+    "storage_bucket": "zippybaskets-6a47b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449043934933:android:eed522d227c0c8800cbc5c",
+        "android_client_info": {
+          "package_name": "zippy.baskets.customer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM0rTQso5GWwZ284mMOQ0nSH01ievRos4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
